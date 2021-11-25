@@ -1,5 +1,5 @@
 # Learning-C
-//Copy of the code:
+Copy of the code:
 ```
 //This is the result of a set of exercises taken to train and understand vectors and structures in C.
 //This program requests the data for a list of students, showing at the end said data
@@ -32,7 +32,6 @@ tipoEstudante lerNotas(tipoEstudante vetorEstudantes[MAX_ESTUDANTES], int nAvali
 void mostrarDados(tipoEstudante vetorEstudantes[MAX_ESTUDANTES], int nAvaliados, int aluno);
 
 
-
 int main()
 {
     tipoEstudante vetorEstudante[MAX_ESTUDANTES];
@@ -55,6 +54,7 @@ int main()
 
     return 0;
 }
+
 ////////////////////////////////////////////////////////////////
 /////   lerQuantidadeAvaliados
 int lerQuantidadeAvaliados()
