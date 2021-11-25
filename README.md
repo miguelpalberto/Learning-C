@@ -33,8 +33,6 @@ void mostrarDados(tipoEstudante vetorEstudantes[MAX_ESTUDANTES], int nAvaliados,
 
 
 
-
-
 int main()
 {
     tipoEstudante vetorEstudante[MAX_ESTUDANTES];
@@ -54,12 +52,6 @@ int main()
     {
         mostrarDados(vetorEstudante, nAvaliados, aluno);
     }
-
-
-
-
-
-
 
     return 0;
 }
