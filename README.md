@@ -1,6 +1,6 @@
 # Learning-C
 //Copy of the code:
-
+'''
 //This is the result of a set of exercises taken to train and understand vectors and structures in C.
 //This program requests the data for a list of students, showing at the end said data
 
@@ -149,3 +149,4 @@ void mostrarDados(tipoEstudante vetorEstudantes[MAX_ESTUDANTES], int nAvaliados,
         printf("Nota: %d \n", vetorEstudantes[aluno].nota);
     }
 }
+'''
